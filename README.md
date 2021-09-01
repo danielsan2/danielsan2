@@ -1,7 +1,7 @@
 <h1> Hi! My name is Daniel. </h1>
 
 <div>
-  <a href="https://github.com/ellen2121">
+  <a href="https://github.com/danielsan2">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ellen2121&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellen2121&&layout=compact&hide=shell&theme=jolly"/>
 
