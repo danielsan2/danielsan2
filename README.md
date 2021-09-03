@@ -2,7 +2,7 @@
 
 
 # Welcome!
-## I'm daniel! Let me present a little about myself :D
+## I'm daniel! Let me present a little about myself :
 
 Full-Stack focused in Ruby on Rails | Software engineer :robot:
 
