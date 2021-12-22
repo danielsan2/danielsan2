@@ -17,7 +17,7 @@
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **danielsan2 </DAniel de Santos>** {
+object **danielsan2 </Daniel de Santos>** {
  val iLove = "EU AMO"
  val acknowledgements = "Marketing, Design, Programação."
  
@@ -48,10 +48,10 @@ object **danielsan2 </DAniel de Santos>** {
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielsan2&theme=dark&show_icons=true)
 
-[website]: https://esthosting.com.br/
-[twitter]: https://twitter.com/premiiadoyt
-[youtube]: https://www.youtube.com/premiiado/
-[instagram]: https://www.instagram.com/opremiiado/
+[website]: https://twitter.com/
+[twitter]: https://twitter.com/
+[youtube]: https://twitter.com/
+[instagram]: https://twitter.com/
 
 <br>
 
