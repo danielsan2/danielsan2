@@ -46,7 +46,7 @@ object **Premiiado </Gabriel de Sousa Moreira>** {
 
 ## ⭐ Informações sobre minha conta GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=premiiado&theme=dark&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielsan2&theme=dark&show_icons=true)
 
 [website]: https://esthosting.com.br/
 [twitter]: https://twitter.com/premiiadoyt
